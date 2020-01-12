@@ -20,4 +20,4 @@ This website includes three users:
 <img src="img/vendor dashboard.png" width=100% height:100%>
 
 <footer>
-  <p>YF Lattice Shop Management System (website): https://yflatticeshop1010.000webhostapp.com/ </p></footer>
+  <p>YF Lattice Shop Management System (website): https://yflatticeshop00.000webhostapp.com/ </p></footer>
